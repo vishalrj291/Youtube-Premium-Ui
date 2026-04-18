@@ -54,7 +54,7 @@ A fully responsive Youtube Premium UI  built using pure HTML and CSS. This proje
 
 1. Clone the repository
 
- 
+ https://github.com/vishalrj291/Youtube-Premium-Ui.git
  
 
 
