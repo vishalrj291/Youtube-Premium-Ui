@@ -1,4 +1,4 @@
-# 📱 YOutube Premium UI (HTML & CSS)
+# 📱 Youtube Premium UI (HTML & CSS)
 
 A fully responsive Youtube Premium UI  built using pure HTML and CSS. This project focuses on replicating the layout and design of Youtube Premium interface while ensuring responsiveness across different screen sizes.
 
